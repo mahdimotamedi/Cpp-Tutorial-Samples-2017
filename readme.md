@@ -6,7 +6,7 @@ To access or contribute the most recent modifications of these samples, find the
 
 ## Running the Samples
 
-I ran all samples with **Visual Studio 2015** on Windows. I think it work with a lot of compilers. please report me the problems with other compilers.
+I ran all samples with **Visual Studio 2015** on Windows. I think it works with most of compilers. please report me the problems with other compilers.
 
 ## References
 
