@@ -19,6 +19,7 @@ int main()
 {
     cout << foo::value() << '\n';
     cout << bar::value() << '\n';
+
     cout << bar::pi << '\n';
 
     return 0;
