@@ -8,28 +8,22 @@ To access or contribute the most recent modifications of these samples, find the
 
 I ran all samples with **Visual Studio 2015** on Windows. I think it works with most of compilers. please report me the problems with other compilers.
 
-## References
-
-I started learning this language with Deitels book. but it reminded all important structures with cplusplus.com
-
-**The book:** H. Deitel and P. Deitel, *C++ How to Program*, 5th ed. Prentice Hall, Jan. 2005.
-
 ## View order
 
-### Basics of C++
+#### Basics of C++
 * Structure of a program
 * Variables and types
 * Constants
 * Operators
 * Basic Input/Output
 
-### Program structure
+#### Program structure
 * Control Structures
 * Functions
 * Overloads and templates
 * Name visibility
 
-### Compound data types
+#### Compound data types
 * Arrays
 * Character sequences
 * Pointers
@@ -37,17 +31,23 @@ I started learning this language with Deitels book. but it reminded all importan
 * Data structures
 * Other data types
 
-### Classes
+#### Classes
 * Classes (I)
 * Classes (II)
 * Special members
 * Friendship and inheritance
 * Polymorphism
 
-### Other language features
+#### Other language features
 * Type conversions
 * Exceptions
 * Preprocessor directives
 
-### C++ Standard Library
+#### C++ Standard Library
 * Input/Output with files
+
+## References
+
+I started learning this language with Deitels book. but it reminded all important structures with cplusplus.com
+
+**The book:** H. Deitel and P. Deitel, *C++ How to Program*, 5th ed. Prentice Hall, Jan. 2005.
