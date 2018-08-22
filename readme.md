@@ -8,7 +8,7 @@ To access or contribute the most recent modifications of these samples, find the
 
 I ran all samples with **Visual Studio 2015** on Windows. I think it works with most of compilers. please report me the problems with other compilers.
 
-## View order
+## Contents
 
 #### Basics of C++
 * Structure of a program
